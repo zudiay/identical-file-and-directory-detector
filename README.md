@@ -24,3 +24,6 @@ This	option	is ignored	when	–n	option	is	used.
 It is assumed	that	directory	hierarchy	forms	a	tree. It is assumed	there	are	no	symbolic	links.	<br>
 • The program uses sha256	hashes	in	order	to	locate	identical	items.	<br>
 • To	locate	identical directories,	hash	trees are used.<br>
+
+
+<i> Developed for CMPE 230 SYSTEMS PROGRAMMING course, Bogazici University Computer Engineering, Spring 2020. <i>
